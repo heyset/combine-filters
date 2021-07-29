@@ -1,0 +1,23 @@
+{
+  "name": "combine-filters",
+  "version": "1.0.0",
+  "description": "Simple function to combine multiple filters",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyset/combine-filters.git"
+  },
+  "keywords": [
+    "array",
+    "filter"
+  ],
+  "author": "Matheus \"Set\" Inacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heyset/combine-filters/issues"
+  },
+  "homepage": "https://github.com/heyset/combine-filters#readme"
+}
