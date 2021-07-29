@@ -7,17 +7,19 @@
     "test": "test"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/heyset/combine-filters.git"
+    "url": "heyset/combine-filters"
   },
   "keywords": [
     "array",
-    "filter"
+    "combineFilters",
+    "combine-filters",
+    "filter",
+    "filters"
   ],
   "author": "Matheus \"Set\" Inacio",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/heyset/combine-filters/issues"
   },
-  "homepage": "https://github.com/heyset/combine-filters#readme"
+  "homepage": "https://github.com/heyset/combine-filters"
 }
